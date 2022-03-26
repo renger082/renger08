@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Welcome to Renger08 GitHub Page !
 
-You can use the [editor on GitHub](https://github.com/renger082/renger08/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Hello everyone I’m Ali. 
+[My-GitHub](https://github.com/renger08/My-Github) : this is my best projects in python language from December 2021.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+>Remember, 
+This repository is **Free** and you can develop it with more futures. Some of these projects are collected from [thepythoncode](https://www.thepythoncode.com) .
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Discord-Bot](https://github.com/renger08/Discord-Bot) : This is my Discord Bot that written with discord.py library.
 
-```markdown
-Syntax highlighted code block
+> Note:
+This bot is made with minimal facilities and knowledge. This project can help you build a better bot with more features. This Repository is free and you can develop this bot.
 
-# Header 1
-## Header 2
-### Header 3
+### How to Download Sources?
 
-- Bulleted
-- List
+There are a few ways to download codes:
+1. Download with (IDM)
+![this is a image](/assets/images/image1.jpg)
+2. Download with GitHub Desktop
+![this is a image](/assets/images/image2.jpg)
+3. Download with URL
+![this is a image](/assets/images/image3.jpg)
 
-1. Numbered
-2. List
+# Vote to My Repository
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/renger082/renger08/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Vote Here](https://take.quiz-maker.com/poll4249848x4D00B105-134)
