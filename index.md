@@ -15,16 +15,23 @@ This bot is made with minimal facilities and knowledge. This project can help yo
 ### How to Download Sources?
 
 There are a few ways to download codes:
-### 1. Download with (IDM)
+> 1. Download with (IDM)
+
 ![this is a image](/assets/images/image1.jpg)
 
 
-### 2. Download with GitHub Desktop
+
+> 2. Download with GitHub Desktop
+
 ![this is a image](/assets/images/image2.jpg)
 
 
-### 3. Download with URL
+
+
+> 3. Download with URL
+
 ![this is a image](/assets/images/image3.jpg)
+
 
 # Vote to My Repository
 
